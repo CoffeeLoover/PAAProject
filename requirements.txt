@@ -11,3 +11,11 @@ parlai
 requests===2.23.0
 rich
 lxml
+pyyaml==5.4
+transformers==4.8.2
+fairseq==0.10.2
+gitdb
+humanfriendly
+jmespath
+boto3
+botocore
