@@ -1,0 +1,13 @@
+bs4
+chardet
+fairseq
+fire
+folium==0.2.1
+html2text
+html5lib
+google
+html5lib
+parlai
+requests===2.23.0
+rich
+lxml
