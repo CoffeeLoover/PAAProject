@@ -7,7 +7,7 @@ html5lib
 google
 html5lib
 parlai
-requests~=2.23.0
+requests
 rich
 lxml
 pyyaml==5.4
